@@ -1,4 +1,4 @@
-iprovider "aws" {
+provider "aws" {
 region = "ap-southeast-2"
 access_key = "AKIAXFOFGNIUJAO5KKVE"
 secret_key = "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"
